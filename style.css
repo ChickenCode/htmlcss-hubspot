@@ -93,9 +93,12 @@ header a {
     font-weight: 500;
 }
 
+.h-raw-b .float-l {
+    line-height: 80px;
+    
+}
 .h-raw-b img {
-    padding: px 0px;
-    transform: translate(0, 80%);
+    vertical-align: middle;
 }
 
 
